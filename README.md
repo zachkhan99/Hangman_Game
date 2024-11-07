@@ -39,7 +39,7 @@ This is a simple **Hangman** game written in Java. The program allows the player
 
 ## Cleaning Up
 
-After running the program, you can clean up the generated .class files by running:
+After running the program, you can clean up the generated .class files by running:  
 	```bash
 	make clean
 	```
